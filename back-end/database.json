@@ -1,0 +1,95 @@
+{
+    "follow": "Follow",
+    "curso": [
+      {
+        "id": "001",
+        "nome": "Ciência da Computação"
+      },
+      {
+        "id": "002",
+        "nome": "Medicina"
+      }
+    ],
+    "horarios": [
+      {
+        "cursoId": "001",
+        "horarios": {
+          "segunda": {
+            "13:00": "Cálculo",
+            "14:00": "Filosofia",
+            "15:00": "Programação 1",
+            "16:00": "Engenharia de Software",
+            "17:00": "Algebra Linear"
+          },
+          "terca": {
+            "13:00": "Cálculo",
+            "14:00": "Filosofia",
+            "15:00": "Programação 1",
+            "16:00": "Engenharia de Software",
+            "17:00": "Algebra Linear"
+          },
+          "quarta": {
+            "13:00": "Cálculo",
+            "14:00": "Filosofia",
+            "15:00": "Programação 1",
+            "16:00": "Engenharia de Software",
+            "17:00": "Algebra Linear"
+          },
+          "quinta": {
+            "13:00": "Filosofia",
+            "14:00": "Programação 1",
+            "15:00": "Engenharia de Software",
+            "16:00": "Algebra Linear",
+            "17:00": "Cálculo"
+          },
+          "sexta": {
+            "13:00": "Filosofia",
+            "14:00": "Programação 1",
+            "15:00": "Engenharia de Software",
+            "16:00": "Algebra Linear",
+            "17:00": "Cálculo"
+          }
+        }
+      },
+      {
+        "cursoId": "002",
+        "horarios": {
+          "segunda": {
+            "13:00": "Anatomia",
+            "14:00": "Biologia Celular",
+            "15:00": "Histologia",
+            "16:00": "Imunologia",
+            "17:00": "Patologia"
+          },
+          "terca": {
+            "13:00": "Anatomia",
+            "14:00": "Biologia Celular",
+            "15:00": "Histologia",
+            "16:00": "Imunologia",
+            "17:00": "Patologia"
+          },
+          "quarta": {
+            "13:00": "Anatomia",
+            "14:00": "Biologia Celular",
+            "15:00": "Histologia",
+            "16:00": "Imunologia",
+            "17:00": "Patologia"
+          },
+          "quinta": {
+            "13:00": "Biologia Celular",
+            "14:00": "Histologia",
+            "15:00": "Imunologia",
+            "16:00": "Patologia",
+            "17:00": "Anatomia"
+          },
+          "sexta": {
+            "13:00": "Biologia Celular",
+            "14:00": "Histologia",
+            "15:00": "Imunologia",
+            "16:00": "Patologia",
+            "17:00": "Anatomia"
+          }
+        }
+      }
+    ]
+  }
